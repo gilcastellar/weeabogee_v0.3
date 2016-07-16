@@ -311,7 +311,8 @@ screen Pump_Action_Rifle:
             label "{b}{size=+12}Pump Action Rifle{/size}{/b}"
         
             text "The Pump Action Rifle..."
-        
+            
+#MUDANÇA KAISER
 screen Hovercraft:
 
     tag menu3
@@ -323,6 +324,6 @@ screen Hovercraft:
         vbox:
             label "{b}{size=+12}Hovercraft{/size}{/b}"
         
-            text "Hovercraft on Terra Nova..."
+            text "KAISER IS GOD"
 
 
